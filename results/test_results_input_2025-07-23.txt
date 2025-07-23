@@ -1,0 +1,2 @@
+Domain: google.com
+Subdomains: admin, secure, login, auth, identity, portal, sso, vault, firewall, dev, test, staging, qa, preprod, sandbox, ci, beta, alpha, internal, api, apiv1, apiv2, graphql, services, backend, mail, smtp, webmail, mx, newsletter, www, ftp, vpn, monitoring, status, metrics, grafana, prometheus, dashboard, billing, invoicing, support, helpdesk, crm, hr, assets, files, downloads, storage, static, content, media, cdn, blog, shop, forum, news, docs, legal, careers
