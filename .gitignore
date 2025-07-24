@@ -1,0 +1,28 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Operating System
+.DS_Store # macOS
+Thumbs.db # Windows
+desktop.ini # Windows
+
+# IDEs and Editors
+.vscode/ # VS Code settings
+.idea/ # IntelliJ/PyCharm
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environment variables
+.env
